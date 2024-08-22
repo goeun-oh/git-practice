@@ -1,1 +1,1 @@
-Git Commit, Push 연습하는 공간임
+>Git Commit, Push 연습하는 공간임
